@@ -5,6 +5,6 @@
 
 🎨 ㅤUI | UX and Graphic Designer
 
-📓 ㅤ<a target="_blank" href="https://hugomata.dev">hugomata.dev</a>
+📓 ㅤ<a target="_blank" href="https://dmtdigital.com.br">hugomata.dev</a>
 
 ☕️ ㅤ<a target="_blank" href="https://www.linkedin.com/in/hugomelodamata/">say hi to me!</a>
