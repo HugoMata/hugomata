@@ -32,7 +32,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AngularJS](https://img.shields.io/badge/angularjs-FFFFFF?style=for-the-badge&logo=angularjs&logoColor=red)
 ![Angular](https://img.shields.io/badge/angular-CB3837?style=for-the-badge&logo=angular&logoColor=white)
-![JQuery](https://img.shields.io/badge/jquery-FFFFFF?style=for-the-badge&logo=jquery&logoColor=blue)
   
 #### Database 👨‍⚖️
 
@@ -53,3 +52,4 @@
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
