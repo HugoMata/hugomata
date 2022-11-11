@@ -2,7 +2,7 @@
 
 💻 ㅤSenior Full Stack Software Engineer
 
-🎨 ㅤUI | UX Designer
+⛓ㅤㅤBlockchain Ethusiast
 
 ☕️ ㅤ<a target="_blank" href="https://www.linkedin.com/in/hugomelodamata/">say hi to me!</a>
 
