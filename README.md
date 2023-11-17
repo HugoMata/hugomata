@@ -2,8 +2,6 @@
 
 💻 ㅤSenior Full Stack Software Engineer
 
-⛓ㅤㅤBlockchain Ethusiast
-
 ☕️ ㅤ<a target="_blank" href="https://www.linkedin.com/in/hugomelodamata/">say hi to me!</a>
 
 ### Frontend 💻
