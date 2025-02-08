@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugomelodamata/)](https://www.linkedin.com/in/hugomelodamata/)  [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugomata.dev@gmail.com)](mailto:hugomata.dev@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/damata.dev/)](https://www.instagram.com/damata.dev/) [![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/12912487/hugo-mata)](https://stackoverflow.com/users/12912487/hugo-mata)
 
-💻 ㅤFull Stack Software Engineer - Tech Lead
+💻 ㅤFull Stack Software Engineer / Tech Lead / AI Engineering Manager at Enhesa
 
 ☕️ ㅤ<a target="_blank" href="https://linktr.ee/dmt.digital">say hi to me!</a>
 
