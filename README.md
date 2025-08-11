@@ -10,9 +10,9 @@
 
 <h2 align="center">📊 Linguagens mais usadas</h2>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoMata&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</div>
+</div> -->
 
 ### Frontend 💻
 ![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
