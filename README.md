@@ -1,8 +1,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugomelodamata/)](https://www.linkedin.com/in/hugomelodamata/)  [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugomata.dev@gmail.com)](mailto:hugomata.dev@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/damata.dev/)](https://www.instagram.com/damata.dev/) [![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/12912487/hugo-mata)](https://stackoverflow.com/users/12912487/hugo-mata)
 
-💻 ㅤFull Stack Software Engineer / Tech Lead / AI Engineering Manager / CTO
+💻 ㅤFull Stack Software Engineer / Tech Lead / CTO
 
-☕️ ㅤ<a target="_blank" href="https://linktr.ee/dmt.digital">say hi to me!</a>
+☕️ ㅤ<a target="_blank" href="https://linktr.ee/dmtdigital.cloud">say hi to me!</a>
 
 ### Frontend 💻
 ![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
@@ -27,7 +27,7 @@
 
 ### Database 👨‍⚖️
 ![PostgreSQL](https://img.shields.io/badge/postgresql%20-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=green)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -36,6 +36,7 @@
 ### Cloud ☁
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Mobile 📱
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
