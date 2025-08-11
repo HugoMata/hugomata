@@ -1,16 +1,20 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugomelodamata/)](https://www.linkedin.com/in/hugomelodamata/)  [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugomata.dev@gmail.com)](mailto:hugomata.dev@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/damata.dev/)](https://www.instagram.com/damata.dev/) [![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/12912487/hugo-mata)](https://stackoverflow.com/users/12912487/hugo-mata)
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+world!+I'm+Hugo+Mata&center=true&size=27&color=#70A5FD">
 
 💻 ㅤFull Stack Software Engineer / Tech Lead / CTO
 
 ☕️ ㅤ<a target="_blank" href="https://linktr.ee/dmtdigital.cloud">say hi to me!</a>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugomelodamata/)](https://www.linkedin.com/in/hugomelodamata/)  [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugomata.dev@gmail.com)](mailto:hugomata.dev@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/damata.dev/)](https://www.instagram.com/damata.dev/) [![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/12912487/hugo-mata)](https://stackoverflow.com/users/12912487/hugo-mata)
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoMata&theme=tokyonight" alt="Estatísticas de contribuições" />
 </div>
 
-<h2 align="center">📊 Linguagens mais usadas</h2>
+<!--<h2 align="center">📊 Linguagens mais usadas</h2>
 
-<!--<div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoMata&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </div> -->
 
@@ -62,3 +66,4 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![SASS](https://img.shields.io/badge/sass-E10098.svg?&style=for-the-badge&logo=sass&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)
+</div>
