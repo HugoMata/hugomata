@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+world!+I'm+Hugo+Mata&center=true&size=27&color=#70A5FD">
 
-💻  Software Engineer / Tech Lead / CTO
+💻  Software Engineer / Tech Lead
 
 ☕️  <a target="_blank" href="https://linktr.ee/dmtdigital.cloud">say hi to me!</a>
 
