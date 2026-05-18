@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+world!+I'm+Hugo+Mata&center=true&size=27&color=#70A5FD">
 
-☕️  <a target="_blank" href="https://linktr.ee/com.br">say hi to me!</a>
+☕️  <a target="_blank" href="https://linktr.ee/dmtdigital.com.br">say hi to me!</a>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoMata&theme=tokyonight" alt="Estatísticas de contribuições" />
